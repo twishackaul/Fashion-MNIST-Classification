@@ -18,3 +18,12 @@
 * 8 => Bag
 * 9 => Ankle boot
 
+## Python code illustrating usage:
+- Importing Libraries:
+
+![Screenshot 2024-07-05 222313](https://github.com/twishackaul/Fashion-MNIST-Classification/assets/107127632/215a2d5b-9b7a-4f80-b162-251bcc86e32f)
+
+- Loading data
+
+![Screenshot 2024-07-05 222327](https://github.com/twishackaul/Fashion-MNIST-Classification/assets/107127632/2cdcf1e8-779f-4b65-84d3-05de6cb74872)
+
